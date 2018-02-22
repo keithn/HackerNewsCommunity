@@ -1,6 +1,6 @@
 # Hacker News Community
 
-Hacker News (HN) has a number of resources created by the community.  
+Hacker News (HN) has a number of resources created by the community that are really useful.  These resources often make the front page of HN but then slip into HNs deep history and can be hard to find.  This page attempts to track these resources.  Any contributions are most welcome.
 
 ## Guides to the HN Website
 
