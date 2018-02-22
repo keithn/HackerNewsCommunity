@@ -7,6 +7,9 @@ Hacker News (HN) has a number of resources created by the community that are rea
 - A List of Hacker News's Undocumented Features and Behaviors ( https://github.com/minimaxir/hacker-news-undocumented )
 - The Unofficial Hacker News FAQ  ( https://jacquesmattheij.com/the-unofficial-hn-faq )
 
+## Social Networks
+
+- Twitter ( https://twitter.com/newsycombinator )
 
 ## Networking
 
