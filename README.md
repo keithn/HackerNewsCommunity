@@ -2,7 +2,7 @@
 
 Hacker News (HN) has a number of resources created by the community that are really useful.  These resources often make the front page of HN but then slip into HNs deep history and can be hard to find.  This page attempts to track these resources.  Any contributions are most welcome.
 
-* Items are not strictly Hacker News Community, but are resources that were on HackerNews that fit well into the categories and worth keeping track of
+Star(*) items are not strictly Hacker News Community, but are resources that were on HackerNews that fit well into the categories and worth keeping track of
 
 ## Guides to the HN Website
 
@@ -21,7 +21,7 @@ Hacker News (HN) has a number of resources created by the community that are rea
 ## Networking
 
 - Cofounder wanted spreadsheet ( https://docs.google.com/spreadsheets/d/1Sygd1fhGYRS-ZvRP0IVV6rf3OUyED9_b6Da4tVWdS08/edit?toomany=true#gid=9 )
-- Indie Hackers* ( https://www.indiehackers.com/ )
+- Indie Hackers(*) ( https://www.indiehackers.com/ )
 
 ## Advice
 
