@@ -22,6 +22,7 @@ Star(*) items are not strictly Hacker News Community, but are resources that wer
 
 - Cofounder wanted spreadsheet ( https://docs.google.com/spreadsheets/d/1Sygd1fhGYRS-ZvRP0IVV6rf3OUyED9_b6Da4tVWdS08/edit?toomany=true#gid=9 )
 - Indie Hackers(*) ( https://www.indiehackers.com/ )
+- Free place to say and food ( and internet!) for a week in SF http://hackersurfing.com/
 
 ## Advice
 
