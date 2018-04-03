@@ -13,6 +13,7 @@ Star(*) items are not strictly Hacker News Community, but are resources that wer
 
 - Hacker News Classics ( http://jsomers.net/hn/ )
 - Hacker News Leaderboard ( https://hnleaderboard.com/? )
+- Search "Who's Hiring" ( https://whoishiring.me/ )
 
 ## Social Networks Aggregators
 
