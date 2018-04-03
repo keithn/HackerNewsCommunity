@@ -34,5 +34,9 @@ Star(*) items are not strictly Hacker News Community, but are resources that wer
 
 - Startup School ( https://www.startupschool.org/ )
 
+## Learning / Education 
+
+- MOOC Reccomendations ( https://news.ycombinator.com/item?id=16745042 )
+
 
 
