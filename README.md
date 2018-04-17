@@ -15,10 +15,14 @@ Star(*) items are not strictly Hacker News Community, but are resources that wer
 - Hacker News Leaderboard ( https://hnleaderboard.com/? )
 - Search "Who's Hiring" ( https://whoishiring.me/ )
 
-## Social Networks Aggregators
+
+
+## Aggregators
 
 - Twitter ( https://twitter.com/newsycombinator )
 - Facebook ( https://www.facebook.com/hn.hiren.news/ )
+- Daily Hacker News Podcast ( http://hackerdaily.co/? )
+- Top 10 Rss ( http://www.daemonology.net/hn-daily/ )
 
 ## Networking
 
