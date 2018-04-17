@@ -22,7 +22,7 @@ Star(*) items are not strictly Hacker News Community, but are resources that wer
 - Twitter ( https://twitter.com/newsycombinator )
 - Facebook ( https://www.facebook.com/hn.hiren.news/ )
 - Daily Hacker News Podcast ( http://hackerdaily.co/? )
-- Top 10 Rss ( http://www.daemonology.net/hn-daily/ )
+- Daily Top 10  ( http://www.daemonology.net/hn-daily/ )
 
 ## Networking
 
