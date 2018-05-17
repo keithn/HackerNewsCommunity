@@ -32,6 +32,10 @@ Star(*) items are not strictly Hacker News Community, but are resources that wer
 - Indie Hackers(*) ( https://www.indiehackers.com/ )
 - Free place to say and food ( and internet!) for a week in SF http://hackersurfing.com/
 
+## Meta HN
+
+- Points Inflation on Hacker News ( https://taimur.me/hn-inflation/ )
+
 ## YCombinator
 
 - List of startups http://yclist.com/
