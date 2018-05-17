@@ -15,7 +15,9 @@ Star(*) items are not strictly Hacker News Community, but are resources that wer
 - Hacker News Leaderboard ( https://hnleaderboard.com/? )
 - Search "Who's Hiring" ( https://whoishiring.me/ )
 
+## Alternative UI
 
+- hckr news ( https://hckrnews.com/ )
 
 ## Aggregators
 
