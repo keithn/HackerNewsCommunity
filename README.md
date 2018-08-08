@@ -14,6 +14,11 @@ Star(*) items are not strictly Hacker News Community, but are resources that wer
 - Hacker News Classics ( http://jsomers.net/hn/ )
 - Hacker News Leaderboard ( https://hnleaderboard.com/? )
 - Search "Who's Hiring" ( https://whoishiring.me/ )
+- Interesting Hacker News Comments Feed ( - http://hnblogs.thume.net/ )
+
+## HN Enhancers
+
+- Highlight Friends comments on HN ( https://github.com/veggiedefender/hn-friends )
 
 ## Alternative UI
 
