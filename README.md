@@ -16,9 +16,10 @@ Star(*) items are not strictly Hacker News Community, but are resources that wer
 - Search "Who's Hiring" ( https://whoishiring.me/ )
 - Interesting Hacker News Comments Feed ( - http://hnblogs.thume.net/ )
 
-## HN Enhancers
+## HN Utilities
 
 - Highlight Friends comments on HN ( https://github.com/veggiedefender/hn-friends )
+- Hacker News Reader, command tool to open browser tabs with top HN Stories ( https://github.com/Bunchhieng/hnreader )
 
 ## Alternative UI
 
@@ -33,7 +34,7 @@ Star(*) items are not strictly Hacker News Community, but are resources that wer
 - Hacker Newsletter, a weekly curated list of articles ( https://hackernewsletter.com/ )
 - Hacker News Digest, emails of top HN articles ( https://www.hndigest.com/ )
 
-##Apps
+## Apps
 
 - Hacker News Later ( https://play.google.com/store/apps/details?id=hackernewslater.williamha.com.hackernewslater )
 
