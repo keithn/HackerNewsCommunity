@@ -24,6 +24,7 @@ Star(*) items are not strictly Hacker News Community, but are resources that wer
 ## Alternative UI
 
 - hckr news ( https://hckrnews.com/ )
+- Hacker news with with webpage tile based previews of articles ( https://hnews.xyz/top )
 
 ## Aggregators
 
