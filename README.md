@@ -31,8 +31,9 @@ Star(*) items are not strictly Hacker News Community, but are resources that wer
 - Daily Hacker News Podcast ( http://hackerdaily.co/? )
 - Daily Top 10  ( http://www.daemonology.net/hn-daily/ )
 - Hacker Newsletter, a weekly curated list of articles ( https://hackernewsletter.com/ )
+- Hacker News Digest, emails of top HN articles ( https://www.hndigest.com/ )
 
-## Apps
+##Apps
 
 - Hacker News Later ( https://play.google.com/store/apps/details?id=hackernewslater.williamha.com.hackernewslater )
 
