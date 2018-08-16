@@ -32,7 +32,7 @@ Star(*) items are not strictly Hacker News Community, but are resources that wer
 - Daily Top 10  ( http://www.daemonology.net/hn-daily/ )
 - Hacker Newsletter, a weekly curated list of articles ( https://hackernewsletter.com/ )
 
-##Apps
+## Apps
 
 - Hacker News Later ( https://play.google.com/store/apps/details?id=hackernewslater.williamha.com.hackernewslater )
 
