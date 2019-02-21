@@ -8,7 +8,6 @@ Star(*) items are not strictly Hacker News Community, but are resources that wer
 
 - A List of Hacker News's Undocumented Features and Behaviors ( https://github.com/minimaxir/hacker-news-undocumented )
 - The Unofficial Hacker News FAQ  ( https://jacquesmattheij.com/the-unofficial-hn-faq )
-- A List of Hacker News's Undocumented Features and Behaviors ( https://github.com/minimaxir/hacker-news-undocumented/blob/master/README.md )
 
 ## HN Data Mining
 
